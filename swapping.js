@@ -8,3 +8,4 @@ b = temp; // Assign the stored value of 'temp' (which was 'a') to 'b'
 
 console.log(a); // 10
 console.log(b); // 5
+
